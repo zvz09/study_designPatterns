@@ -1,4 +1,4 @@
-package com.zvz.study.singletonPattern.ordinary;
+package com.zvz.study.singletonPattern;
 
 public class Client {
 
