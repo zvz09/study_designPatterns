@@ -1,4 +1,4 @@
-package com.zvz.study.fmm.general.Product;
+package com.zvz.study.fmm.general.product;
 
 public abstract class Product {
     /**

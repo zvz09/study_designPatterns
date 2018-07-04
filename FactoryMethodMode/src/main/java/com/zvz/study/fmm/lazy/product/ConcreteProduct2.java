@@ -1,4 +1,4 @@
-package com.zvz.study.fmm.general.Product;
+package com.zvz.study.fmm.lazy.product;
 
 public class ConcreteProduct2 extends Product {
 

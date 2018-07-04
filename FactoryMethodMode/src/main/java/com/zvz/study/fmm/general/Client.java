@@ -1,10 +1,10 @@
 package com.zvz.study.fmm.general;
 
-import com.zvz.study.fmm.general.Creator.ConcreteCreator;
-import com.zvz.study.fmm.general.Creator.Creator;
-import com.zvz.study.fmm.general.Product.ConcreteProduct1;
-import com.zvz.study.fmm.general.Product.ConcreteProduct2;
-import com.zvz.study.fmm.general.Product.Product;
+import com.zvz.study.fmm.general.creator.ConcreteCreator;
+import com.zvz.study.fmm.general.creator.Creator;
+import com.zvz.study.fmm.general.product.ConcreteProduct1;
+import com.zvz.study.fmm.general.product.ConcreteProduct2;
+import com.zvz.study.fmm.general.product.Product;
 
 public class Client {
     public static void main(String[] args) {

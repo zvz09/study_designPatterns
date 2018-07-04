@@ -1,6 +1,6 @@
-package com.zvz.study.fmm.general.Creator;
+package com.zvz.study.fmm.general.creator;
 
-import com.zvz.study.fmm.general.Product.Product;
+import com.zvz.study.fmm.general.product.Product;
 
 public abstract class Creator {
     /**
