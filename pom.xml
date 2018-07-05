@@ -12,6 +12,7 @@
         <module>SingletonPattern</module>
         <module>FactoryMethodMode</module>
         <module>AbstractFactoryPattern</module>
+        <module>TemplateMethodPattern</module>
     </modules>
 
 
