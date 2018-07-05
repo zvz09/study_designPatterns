@@ -13,6 +13,7 @@
         <module>FactoryMethodMode</module>
         <module>AbstractFactoryPattern</module>
         <module>TemplateMethodPattern</module>
+        <module>BuilderPattern</module>
     </modules>
 
 
