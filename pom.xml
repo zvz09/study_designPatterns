@@ -14,6 +14,7 @@
         <module>AbstractFactoryPattern</module>
         <module>TemplateMethodPattern</module>
         <module>BuilderPattern</module>
+        <module>ProxyPattern</module>
     </modules>
 
 
