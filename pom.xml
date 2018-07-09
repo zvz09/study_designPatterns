@@ -17,6 +17,7 @@
         <module>ProxyPattern</module>
         <module>PrototypePattern</module>
         <module>MediatorPattern</module>
+        <module>CommandPattern</module>
     </modules>
 
 
