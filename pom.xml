@@ -19,6 +19,7 @@
         <module>MediatorPattern</module>
         <module>CommandPattern</module>
         <module>责任链模式</module>
+        <module>DecoratorPattern</module>
     </modules>
 
 
