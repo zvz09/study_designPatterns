@@ -23,6 +23,7 @@
         <module>StrategyPattern</module>
         <module>AdapterPattern</module>
         <module>IteratorPattern</module>
+        <module>CompositePattern</module>
     </modules>
 
 
