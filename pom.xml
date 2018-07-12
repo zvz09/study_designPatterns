@@ -21,6 +21,7 @@
         <module>责任链模式</module>
         <module>DecoratorPattern</module>
         <module>StrategyPattern</module>
+        <module>AdapterPattern</module>
     </modules>
 
 
