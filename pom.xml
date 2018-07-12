@@ -22,6 +22,7 @@
         <module>DecoratorPattern</module>
         <module>StrategyPattern</module>
         <module>AdapterPattern</module>
+        <module>IteratorPattern</module>
     </modules>
 
 
