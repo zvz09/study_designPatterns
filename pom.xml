@@ -24,6 +24,7 @@
         <module>AdapterPattern</module>
         <module>IteratorPattern</module>
         <module>CompositePattern</module>
+        <module>ObserverPattern</module>
     </modules>
 
 
