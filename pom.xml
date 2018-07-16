@@ -30,6 +30,7 @@
         <module>StatePattern</module>
         <module>InterpreterPattern</module>
         <module>FlyweightPattern</module>
+        <module>BridgePattern</module>
     </modules>
 
 
