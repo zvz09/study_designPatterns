@@ -28,6 +28,7 @@
         <module>MementoPattern</module>
         <module>VisitorPattern</module>
         <module>StatePattern</module>
+        <module>InterpreterPattern</module>
     </modules>
 
 
