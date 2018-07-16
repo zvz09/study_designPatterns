@@ -29,6 +29,7 @@
         <module>VisitorPattern</module>
         <module>StatePattern</module>
         <module>InterpreterPattern</module>
+        <module>FlyweightPattern</module>
     </modules>
 
 
