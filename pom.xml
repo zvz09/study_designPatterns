@@ -27,6 +27,7 @@
         <module>ObserverPattern</module>
         <module>MementoPattern</module>
         <module>VisitorPattern</module>
+        <module>StatePattern</module>
     </modules>
 
 
