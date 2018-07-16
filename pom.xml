@@ -25,6 +25,7 @@
         <module>IteratorPattern</module>
         <module>CompositePattern</module>
         <module>ObserverPattern</module>
+        <module>MementoPattern</module>
     </modules>
 
 
