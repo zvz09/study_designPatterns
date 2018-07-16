@@ -26,6 +26,7 @@
         <module>CompositePattern</module>
         <module>ObserverPattern</module>
         <module>MementoPattern</module>
+        <module>VisitorPattern</module>
     </modules>
 
 
