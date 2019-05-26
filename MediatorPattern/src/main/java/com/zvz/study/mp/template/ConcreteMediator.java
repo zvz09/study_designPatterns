@@ -7,6 +7,7 @@ public class ConcreteMediator extends Mediator {
         super.c1.selfMethod1();
         super.c2.selfMethod2();
     }
+
     @Override
     public void doSomething2() {
         super.c1.selfMethod1();

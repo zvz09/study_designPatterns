@@ -8,7 +8,6 @@ import com.zvz.study.afp.product.Human;
 public class Client {
 
 
-
     public static void main(String[] args) {
         //第一条生产线，男性生产线
         HumanFactory maleHumanFactory = new MaleFactory();

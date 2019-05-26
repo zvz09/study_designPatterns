@@ -5,6 +5,7 @@ public class ConcreteState1 extends State {
     public void handle1() {
 //本状态下必须处理的逻辑
     }
+
     @Override
     public void handle2() {
 //设置当前状态为stat2

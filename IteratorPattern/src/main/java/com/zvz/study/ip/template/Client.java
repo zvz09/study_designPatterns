@@ -11,7 +11,7 @@ public class Client {
         agg.add("1234");
 //遍历一下
         Iterator iterator = agg.iterator();
-        while(iterator.hasNext()){
+        while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
     }

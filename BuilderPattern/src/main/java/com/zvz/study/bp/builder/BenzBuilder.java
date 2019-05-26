@@ -13,6 +13,7 @@ public class BenzBuilder extends CarBuilder {
     public CarModel getCarModel() {
         return this.benz;
     }
+
     @Override
     public void setSequence(ArrayList<String> sequence) {
         this.benz.setSequence(sequence);

@@ -9,6 +9,7 @@ public class MaleFactory implements HumanFactory {
     public Human createBlackHuman() {
         return new MaleBlackHuman();
     }
+
     //生产出白人男性
     public Human createWhiteHuman() {
         return new MaleWhiteHuman();
